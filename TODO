@@ -1,6 +1,6 @@
 Open issues / next steps for libfaketime development:
 
-Please see the issue tracker on Github - https://github.com/wolfcw/libfaketime
+Please see the issue tracker on Github  -  https://github.com/wolfcw/libfaketime
 
 - New features, such as additional system calls to intercept, are labelled
   "feature request" when they are considered for implementation
